@@ -10,9 +10,9 @@ import AgreementPreview from "./AgreementPreview";
 
 const openLawConfig = {
     server: "https://app.openlaw.io",
-    templateName: "HandShake Protocol",
-    userName: "gubif@mailing.one",
-    password: "type12enter"
+    templateName: "HandyShake",
+    userName: "openlawesq@gmail.com",
+    password: "OPENlaw4every1"
 };
 
 console.log(openLawConfig.templateName);
